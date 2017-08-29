@@ -13,5 +13,9 @@ An Intel Curie Arduino/Genuino 101 board based project to display text using a J
 
 ## Diagrams
 
+![JHD 162A](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Arduino_Genuino_101/LiquidCrystalDisplay-JHD162A/Diagrams/JHD162A.PNG "JHD 162A")
+
+![JHD 162A Pin Diagram](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Arduino_Genuino_101/LiquidCrystalDisplay-JHD162A/Diagrams/JHD162A_Pin_Diagram.PNG "JHD 162A Pin Diagram")
+
 ![JHD 162A Interfacing with Arduino 101](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Arduino_Genuino_101/LiquidCrystalDisplay-JHD162A/Diagrams/Arduino101_JHD162A.PNG "JHD 162A Interfacing")
 
