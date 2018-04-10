@@ -18,7 +18,7 @@ An Intel Curie Arduino/Genuino 101 board based project to sense the temperature 
 
 ![KY-028 Pin Diagram](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Resources/KY_028_Pin_Diagram.PNG "KY-028 Pin Diagram")
 
-![KY-028 Interfacing with Arduino 101](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Resources/Arduino101_KY_028_JHD162A.PNG "KY-028 Interfacing")
+![KY-028 Interfacing with Arduino 101](https://raw.githubusercontent.com/Sampreet/iot-projects/master/Projects/Arduino_Genuino_101/Temperature_Sensor_KY_028/Resources/Arduino_101_KY_028_JHD162A.PNG "KY-028 Interfacing")
 
 
 
